@@ -8,4 +8,4 @@
 ***
 **JAVAWEB**
 
-商城项目（javaweb+jbdc）https://github.com/5508429/Communication-systems.git
+商城项目（javaweb+jbdc）https://github.com/5508429/Marketplace-items.git
